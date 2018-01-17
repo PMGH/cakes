@@ -1,6 +1,9 @@
-## Cake
+# **Cake**
 
-# Project Spec
+![Image](/screenshots/cakes_nexus5.png)
+![Image](/screenshots/cakes_ipad.png)
+
+## Project Spec
 
 Using create-react-app, any other tool or library you wish, and 2-3 hours, please deliver the following:
 
